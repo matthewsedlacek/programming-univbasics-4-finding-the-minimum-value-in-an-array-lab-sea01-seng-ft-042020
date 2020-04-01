@@ -1,5 +1,5 @@
 def find_min_value(array)
-smallest_value = 1
+smallest_value = 1000
 i = 0 
 while i < array.length do
   if array[i] < smallest_value
